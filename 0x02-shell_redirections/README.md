@@ -24,3 +24,4 @@ a script that displays all users and their home directories, sorted by users
  a command that finds all empty files and directories in the current directory and all sub-directories
  a script that lists all the files with a gif extension
 An acrostic is a poem
+script that parses web server
