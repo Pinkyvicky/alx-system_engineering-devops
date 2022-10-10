@@ -18,3 +18,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 Display all the lines in the file
 o Display all lines of the file
 Replace all characters A and c from input to Z and e respectively
+a script that removes all letters c and C from input
