@@ -17,3 +17,4 @@ Display the number of lines that contain the pattern
 Display lines containing the pattern “root” and 3 lines after them in the file
 Display all the lines in the file
 o Display all lines of the file
+Replace all characters A and c from input to Z and e respectively
